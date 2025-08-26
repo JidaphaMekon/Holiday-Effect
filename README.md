@@ -29,6 +29,13 @@ error_tuned_xgb	-0.014258015	0.033040241	0.868132312	0.962452179	1
 <img width="1200" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/0b62496c-5974-4fa5-af47-defebbda46ed" />
 
 
+<img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/b51099f0-7a6c-4269-acd0-30f4094e086a" />
+
+<img width="1400" height="600" alt="image" src="https://github.com/user-attachments/assets/ef51418d-0256-4cd9-9f03-3984c9eabda6" />
+
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/e137231f-35d7-49db-b62c-729894f93ca7" />
+
+
 
 
 ผลการประเมินโมเดล
