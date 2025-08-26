@@ -35,8 +35,15 @@ error_tuned_xgb	-0.014258015	0.033040241	0.868132312	0.962452179	1
 
 <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/e137231f-35d7-49db-b62c-729894f93ca7" />
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/6f7366a9-00b4-4627-b40b-5ff97bf98b6f" />
+วันจันทร์ (0) และวันศุกร์ (4) มีค่า RMSE สูงกว่าวันอื่น ๆ โดยเฉพาะในโมเดล RF และ XGB
+วันพุธ (2) มี RMSE ต่ำที่สุดในทุกโมเดล
 
 
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/36431677-41aa-42f9-9acc-9ec9782f0ce7" />
+ RMSE ระหว่างวันหยุดสุดสัปดาห์ vs วันธรรมดา
+RMSE ในวันหยุดสุดสัปดาห์ (is_weekend = True) สูงกว่าวันธรรมดาในทุกโมเดล
+บ่งชี้ว่าโมเดลมีความไม่แม่นยำในช่วงวันหยุดหรือวันใกล้วันหยุด
 
 ผลการประเมินโมเดล
 
