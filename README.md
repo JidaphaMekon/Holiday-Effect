@@ -6,6 +6,14 @@
 เพื่อเปรียบเทียบว่าโมเดล ML/DL ที่เรียนรู้จากข้อมูลแบบ calendar days (ที่มีวันหยุดและเติมข้อมูล) สามารถพยากรณ์ราคาหุ้นได้แม่นยำกว่าข้อมูลแบบ trading days หรือไม่
 ทดสอบสมมุติฐานว่า feature เช่น is_weekend, days_since_last_trade มีผลต่อความแม่นยำของโมเดล
 
+
+Model	RMSE	MAE	MAPE	R2 Score
+Random Forest	48.68068449	45.06663471	25.48193361	-9.816175774
+XGBoost	44.99505349	41.57038755	23.54897109	-8.240382075
+Tuned XGBoost	44.30969012	40.83406127	23.12220078	-7.961027494
+
+<img width="358" height="81" alt="image" src="https://github.com/user-attachments/assets/dbef8de4-18cd-47ef-8864-b43a9f7f339e" />
+
 <img width="1200" height="500" alt="feature_importance" src="https://github.com/user-attachments/assets/0b62496c-5974-4fa5-af47-defebbda46ed" />
 
 
