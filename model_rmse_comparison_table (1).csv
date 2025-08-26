@@ -1,0 +1,9 @@
+Model,RMSE,Strengths,Weaknesses
+Random Forest (RF),48.68,Simple and interpretable,"High error, poor temporal adaptation"
+XGBoost (XGB),45,Handles non-linear patterns well,Still limited in time-awareness
+Tuned XGBoost,44.31,Improved accuracy via hyperparameter tuning,"Static model, no time adaptation"
+Meta-Model (Linear),13.91,"Combines models effectively, interpretable",Limited in capturing complex patterns
+Meta-Model (XGB),0.46,"Highly accurate, learns complex interactions","Possible overfitting, needs validation"
+Meta-Model (Neural Network),44.65,Can model non-linear relationships,"Underperformed, sensitive to data quality"
+LSTM,135.52,Captures sequential dependencies,"Needs more data, poor performance here"
+Transformer,14,Captures temporal context and attention,Requires careful tuning and feature design
