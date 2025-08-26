@@ -45,6 +45,7 @@ error_tuned_xgb	-0.014258015	0.033040241	0.868132312	0.962452179	1
 RMSE ในวันหยุดสุดสัปดาห์ (is_weekend = True) สูงกว่าวันธรรมดาในทุกโมเดล
 บ่งชี้ว่าโมเดลมีความไม่แม่นยำในช่วงวันหยุดหรือวันใกล้วันหยุด
 
+<img width="912" height="476" alt="image" src="https://github.com/user-attachments/assets/bac1076d-5e7d-4e69-8bdc-2bdb5bc6f6f2" />
 
 
 
